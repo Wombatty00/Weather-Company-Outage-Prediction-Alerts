@@ -1,0 +1,1 @@
+This code is scheduled to run hourly to check if thresholds stored in a DB by client and location exceed outage prediciton thresholds.  Every hour, alerts are sent for high predicted outages to select recipients.
